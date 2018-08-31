@@ -1,0 +1,12 @@
+import 'package:flutter/material.dart';
+Color primary = const Color(0xFF2C2B33);
+Color primaryDark = const Color(0xFF222128);
+Color colorAccent = const Color(0xFF65BFA6);
+Color salmon = const Color(0xFFF47663);
+Color nike=const Color(0xFFCFFF3D);
+Color nike_girl=const Color(0xFFf93c7a);
+Color light_black=const Color(0xFF121212);
+Color black=const Color(0xFF000000);
+Color whitesmoke=const Color(0xFFF5F5F5);
+final TextStyle captionStyle =  TextStyle(color: Colors.grey[400]);
+final TextStyle whiteBody =  TextStyle(color: Colors.white);
